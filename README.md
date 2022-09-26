@@ -54,4 +54,15 @@ markdown
 
 #Project uno
 ##project dos
+<<<<<<< HEAD
 >>>>>>> f0a9657 (adding the modification)
+=======
+
+
+Esto se modifico
+y esto tambien
+
+
+
+esto ya es otro branchS
+>>>>>>> 8b60f73 (agregando cambios)
