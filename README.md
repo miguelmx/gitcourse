@@ -75,4 +75,9 @@ This is bound to make trouble
 
 ///// regresando al branch anterior
 
+<<<<<<< HEAD
 >>>>>>> 1ec3245 (Very bad update)
+=======
+asdlkjfhalsdf
+asdfasdfasdfasdf 
+>>>>>>> 52d67ab (updating again)
