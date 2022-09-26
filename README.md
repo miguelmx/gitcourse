@@ -48,4 +48,10 @@ Now that you're more familiar with your Bitbucket repository, go ahead and add a
 Hello!!!
 
 markdown
+<<<<<<< HEAD
 >>>>>>> 9ebcae1 (1st commit)
+=======
+
+#Project uno
+##project dos
+>>>>>>> f0a9657 (adding the modification)
