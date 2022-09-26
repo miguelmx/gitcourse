@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # These are some examples of commonly ignored file patterns.
 # You should customize this list as applicable to your project.
 # Learn more about .gitignore:
@@ -52,3 +53,7 @@ Thumbs.db
 =======
 *.log
 >>>>>>> 894ef81 (adding ignore)
+=======
+*.log
+*.orig
+>>>>>>> 78d2111 (resolving)
