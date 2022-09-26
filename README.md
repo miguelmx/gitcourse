@@ -64,5 +64,15 @@ y esto tambien
 I hope this create problem
 
 
+<<<<<<< HEAD
 esto ya es otro branchS
 >>>>>>> 8b60f73 (agregando cambios)
+=======
+This is bound to make trouble
+
+
+
+
+///// regresando al branch anterior
+
+>>>>>>> 1ec3245 (Very bad update)
